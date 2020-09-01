@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Grow my Linkedin
+- 🏖️ Would love to make a deal in Real Estate
 - ⚡ Fun fact: I love to play CSGO 
 
 ### Connect with me:
@@ -16,6 +17,17 @@
 <br />
 
 ### Languages and Tools:
+
+- Languages: Python, AngularJS, PolymerJS, JavaScript, Go, SQL, HTML5, PHP, Jython, Perl, CSS
+
+- Frameworks: Django, Flask, Tornado
+
+- Platforms: Linux, Amazon Web Services (AWS), Google App Engine, Heroku, Windows, Mac OS X
+
+- Storage: NoSQL, MongoDB, MySQL, PostgreSQL, Redis, Google Cloud SQL, Fusion Tables, Amazon S3, Google BigQuery
+
+- Version control systems (SVN, GIT, Mercurial)
+<br />
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]

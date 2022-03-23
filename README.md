@@ -2,11 +2,10 @@
 
 ## I'm a Developer !
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Grow my Linkedin
-- 🏖️ Would love to make a deal in Real Estate
-- ⚡ Fun fact: I love to play CSGO 
+- 🌱 I’m currently learning Vue.js
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2022 Goals: Grow my Linkedin
+- ⚡ Fun fact: I love to talk about Real Estate 
 
 ### Connect with me:
 
@@ -18,9 +17,9 @@
 
 ### Languages and Tools:
 
-- Languages: Python, AngularJS, PolymerJS, JavaScript, Go, SQL, HTML5, PHP, Jython, Perl, CSS
+- Languages: Python, VueJs, AngularJS, PolymerJS, JavaScript, Go, SQL, HTML5, PHP, Jython, Perl, CSS
 
-- Frameworks: Django, Flask, Tornado
+- Frameworks: Django, Flask, Tornado, Bottle, Dash, Fastapi
 
 - Platforms: Linux, Amazon Web Services (AWS), Google App Engine, Heroku, Windows, Mac OS X
 
